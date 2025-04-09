@@ -12,8 +12,8 @@
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
+  background: var(--foreground);
+  color: var(--background);
   @apply bg-white dark:bg-black dark:text-white;
 }
 
